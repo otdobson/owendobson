@@ -54,5 +54,13 @@ lessons necessary to achieve them.
 
 
 
- I will be unavailable to be able to be reached for communication during this time. If you need to contact me mail a letter to (TBA PO BOX) or 
+ I will be unavailable to be able to be reached for communication during this time. If you need to contact me mail a letter to 
+ 
+ "Cadet Dobson, O
+ C/O Keystone State Challenge Academy
+ Building 7-06 Broad Street
+ Fort Indiantown Gap
+ Annville, PA 17003-5002"
+
+ or 
  call (717) 861-7556 from Monday-Friday 8:15 AM to 4:30 PM EST to relay a message or talk to me, and if there is an actual emergency call 717-507-7348 24/7.
