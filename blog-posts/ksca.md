@@ -8,7 +8,7 @@ Your unwavering support has been invaluable, and I'm eagerly anticipating the op
 
 While this journey might keep me away from home, I am steadfast in my commitment to overcoming challenges. 
 Your unwavering support has been invaluable, and I eagerly anticipate the opportunities that this experience will unfold for me. 
-I will be leaving Shippensburg on January 14th, 2024, and returning on June 3rd, 2024. It is a 20-week program. 
+I will be leaving Shippensburg on January 14th, 2024, and returning on June 8tn, 2024. It is a 22-week program. 
 
 I eagerly await the day I return and the promising future ahead. Thank you for standing by me in the past, and I eagerly look forward to reconnecting when I return.
 
