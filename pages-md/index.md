@@ -1,5 +1,5 @@
 ---
-title: Owen Dobson
+title: Cadet Owen Thomas Dobson
 meta_description: Welcome to an organizational wiki of Owen Dobson's life. 
 ---
 
