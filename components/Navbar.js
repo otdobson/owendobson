@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <header>
       <a href="/">
-        <h1>Owen Thomas Dobson</h1>
+        <h1>Cadet Owen Thomas Dobson</h1>
       </a>
       <nav>
         <p>
