@@ -1,4 +1,4 @@
-PA FBLA RLC Region 26 Conference at Shippensburg University, PA
+### PA FBLA RLC Region 26 Conference at Shippensburg University, PA
 
 
 I had so much fun at this conference!! We went with the Shippensburg Area Senior High School FBLA Chapter. 
