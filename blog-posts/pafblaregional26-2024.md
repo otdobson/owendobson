@@ -9,6 +9,7 @@ Thank you Region 26 FBLA officers and advisers, our FBLA chapter, and Shippensbu
 
 
 My speech:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C2XIFzM2q5o?autoplay=1" frameborder="0" allowfullscreen></iframe>
+[![PA FBLA REGION 26 Owen's Campaign for Regional Officer](https://img.youtube.com/vi/C2XIFzM2q5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=C2XIFzM2q5o)
+
 
 
