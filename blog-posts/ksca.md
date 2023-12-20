@@ -64,3 +64,6 @@ lessons necessary to achieve them.
 
  or 
  call (717) 861-7556 from Monday-Friday 8:15 AM to 4:30 PM EST to relay a message or talk to me, and if there is an actual emergency call 717-507-7348 24/7.
+
+To obtain a spot in Owens contact/phone/address book fill out this form by Jan 13, 2024
+ [Form to contact me fill out by Jan 13th, 2024.](https://forms.gle/HXWPrpXJs32NBvbE8)
