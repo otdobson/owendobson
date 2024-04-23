@@ -5,7 +5,7 @@ meta_description: Welcome to an organizational wiki of Owen Dobson's life.
 
 ## Hello!
 
-![image](/owen.png)
+![image](/owen.jpg)
 
 ### About me
 
