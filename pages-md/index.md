@@ -1,6 +1,7 @@
 ---
 title: Dobson, Owen
 meta_description: Welcome to an organizational wiki of Owen Dobson's life. 
+meta_image: ![image](/owen.jpg)
 ---
 
 ## Hello!
