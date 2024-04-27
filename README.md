@@ -1,3 +1,3 @@
-# [An organizational wiki of Owen Dobson's life.](https://wiki.owendobson.com)
+# [OWENDOBSON.COM](https://wiki.owendobson.com)
 
 ![Owen Dobson](/public/owen.jpg)
