@@ -38,7 +38,7 @@ export default function Homepage({ frontmatter, content }) {
     <>
       <Head>
         <meta property="og:title" content={frontmatter.meta_description} />
-        <meta property="og:image" content={frontmatter.meta.image]} />
+        <meta property="og:image" content={frontmatter.meta.image} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={frontmatter.meta_description} />
         <title>{frontmatter.title}</title>
