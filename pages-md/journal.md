@@ -75,3 +75,5 @@ I returned from the academy on apirl (), about three weeks ago. Normally you wou
 I am left with transitioning into the society of regret and despair while trying to find myself in a structured light. 
 
 To reconnect with a past I left 4 months ago is weird, all of my objectives, tasks, resources, relationships, servers all left in a limbo state.
+
+Prom was yesterday and I didn't go as a forgot to obtain my prom ticket due to being virtual.
