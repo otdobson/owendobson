@@ -63,3 +63,15 @@ The FBLA PA Region 26 Regionals is next Monday so like very slay. I am going to 
 
 ### 2024
 
+Apirl 28th, 2024
+Alot has happened in the past few months, leaving me in an unexpected, and unconitioned state of mind.
+
+On January 14th, 2024, I engaged my better side and embarked on leaving my family, friends, and my hometown to becoming a cadet at the Keystone state Challenge Academy in annville, inside the post fort Indiantown gap.
+
+It was an experience I will never forget; it was both traumatizing and rewarding at the same time. The traumatizing part took over and left me with no choice but to leave the academy on my own will.
+
+I returned from the academy on apirl (), about three weeks ago. Normally you would stay to June but I didn't go through with the program.
+
+I am left with transitioning into the society of regret and despair while trying to find myself in a structured light. 
+
+To reconnect with a past I left 4 months ago is weird, all of my objectives, tasks, resources, relationships, servers all left in a limbo state.
