@@ -77,3 +77,11 @@ I am left with transitioning into the society of regret and despair while trying
 To reconnect with a past I left 4 months ago is weird, all of my objectives, tasks, resources, relationships, servers all left in a limbo state.
 
 Prom was yesterday and I didn't go as a forgot to obtain my prom ticket due to being virtual.
+
+
+June 1st, 2024
+
+I have been busy on many tech projects, career devolpment and other objectives. I have had my first full featured bakery shift today by myself and with an overload of todos. It went well to to innvoative skills learned at the academy and I even got finished early.
+I interfaced with an old directv dish (they left it here when we revoke services)  with a raspberry pi and a software defined radio dongle. I have been exploring the idea of mkaing and conversing old tech with new tech in order to make more innvoivative soultions. 
+
+

@@ -147,3 +147,25 @@ THE TASK:
 
 04/27/2024 21:39 booting into fresh ubuntu server pro!
 04/27/2024 21:40 Proxmox install over ssh
+
+
+
+
+
+UPDATE: 06/1/2024
+
+Proxmox had a fatal error, redoing as a window servers host with type 2 hypervisor (virtualbox or hyperv)
+
+I devolped a amauter radio network through a ASL node that connects to the allstarlink network, it connected to a repeater over the allstar network and bridges analog telephones and FRS channels local as well as IAX cleints for computer applicarions.
+It has the ability to use google voice as a SIp trunk b y making/devolping my own "software defined obitalk google voice bridge" allowing ham radios on my network (who auth with certain dial tones) to dial phone numbers. I will also connect thisd system to a N8N automation server for extended funcationallity.
+
+
+I have my windows machine inside a VM so that I dont have to be at my desk or even at home, as I have a cloudflared service running that exposes my proxmnox virtual env web ui (safely) to my domain through a special tunnel (all w/o firewall configuretion)
+
+I connected my house wiredly through etherner over powerline adpaters from tp link and switch my linksys veolp nodes from router mesh to bridged AP mode. I have three leveks of oraazation my server room/active storage, my workstation for active uses, and my devolpment/alpha desk for hardware building and exploring dioffernt principles. 
+
+I am goinbg to use  my old LGv40 as a portable (pi if you will) by rooting it to have full linux term access to be able to have a travel router and whole infrasturtrure inside my phone without the added beefnit of a pi. I do have a nano travel router however, which I am thinking about getting a USB modem for (it allows you to put a sim card init for use).
+
+
+
+

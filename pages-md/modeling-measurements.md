@@ -20,7 +20,7 @@ Suit Jacket: 36-38
 
 Suit Pants: 28-30
 
-[My Modeling Portfolio](https://owendobson.com/modeling)
-[My Modeling Instagram](https://instagram.com/slaybyowen)
+[My Modeling Portfolio](https://owendphotos.com/modeling)
+[My Modeling Instagram](https://instagram.com/vanaoson)
 
 [Image](/owen.png)
