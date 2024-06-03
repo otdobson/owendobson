@@ -13,7 +13,11 @@
 
 ### [2024](#2024-1) 
 
+1. [Apirl](#Apirl_2024)
 
+2. [May](#May_2024)
+
+3. [June](#June_2024)
 
 ### Introduction: (written October 22nd, 2023)
 Hey, my name is Owen Dobson and I am a high school junior, in a small town. I am 16 years old, born in 2007. I hope to be an entrepreneur someday and to live in New York City. My dream school is New York University, which I hope to attend, however, I most likely cannot due to high tuition fees. I love everything about urban life, I find it inspiring, a way out of this small town, a reassurance of freedom. Some of my interests are photography, business, music (listening), hanging out with friends, IST (information systems tech), poetry, writing, reading, drinking coffee, cycling, going to the gym, academics, business, and others. I identify as pansexual, but I tell everyone I'm gay just because it's easier, I'm out which means I'm just another secret to them as I live in this small town. I work at a grocery store, in the curbside pickup department. It's okay there I guess, just a bit odd. I love cats (even though I don't have one because my dad is allergic) but I hope to get one someday and have them grow up with a husky to become the best of friends. So that's a little bit about me.
@@ -63,7 +67,9 @@ The FBLA PA Region 26 Regionals is next Monday so like very slay. I am going to 
 
 ### 2024
 
-Apirl 28th, 2024
+### Apirl_2024
+
+### Apirl 28th, 2024
 Alot has happened in the past few months, leaving me in an unexpected, and unconitioned state of mind.
 
 On January 14th, 2024, I engaged my better side and embarked on leaving my family, friends, and my hometown to becoming a cadet at the Keystone state Challenge Academy in annville, inside the post fort Indiantown gap.
@@ -79,9 +85,27 @@ To reconnect with a past I left 4 months ago is weird, all of my objectives, tas
 Prom was yesterday and I didn't go as a forgot to obtain my prom ticket due to being virtual.
 
 
-June 1st, 2024
+### May _2024
+No entries
+
+### June_2024
+
+### June 1st, 2024
 
 I have been busy on many tech projects, career devolpment and other objectives. I have had my first full featured bakery shift today by myself and with an overload of todos. It went well to to innvoative skills learned at the academy and I even got finished early.
 I interfaced with an old directv dish (they left it here when we revoke services)  with a raspberry pi and a software defined radio dongle. I have been exploring the idea of mkaing and conversing old tech with new tech in order to make more innvoivative soultions. 
 
 
+### June 2nd, 2024
+
+I condensed my digitial social media atmosphere in order to be more privacy foused and more foused on myself not being "used" by the tool designed for "social interactions". I obtained this special launcher on my phone that blocks out distractions by using a min interface.
+
+I have redevolped a new notion design for better orgazation of my life, knowledge, data and resources. I am also going to obtain a gym membership soon with my employers discount. 
+
+I am switching sleep schedules to a specialy designed schedule to give me more waking time/hours. The monostatic sleep pattern that is the most used today (one single long sleep) only started devolping after the industrial revoultions so it is actually not natural.
+
+I am going to move to a sleep schedule in the uberman/anyman realm of psyahicaic sleep. Where you take short naps to make one long sleep over short naps. 
+
+This way I can be more productive and OWN my time and not have it OWN me. I also deleted a bunch of apps and I am starting to dig into simpifing my life. 
+
+I am considering making a youtube channel or some sort of blog to vlog my tech endavors and my journay and share my story, like a digital creator, within the lifestyle niche not even a spefific target of sharring like photography.

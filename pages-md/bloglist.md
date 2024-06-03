@@ -7,3 +7,4 @@ December 18th, 2023 [Acceptance at The Keystone State Challenge Academy](/blog/k
 December 18th, 2023 [PA FBLA RLC Region 26 Conference at Shippensburg University, PA](/blog/pafblaregional26-2024)
 
 December 18th, 2023 [PA FBLA Business Ethics Project 23/24](/blog/FBLA-business-ethics-23-24)
+

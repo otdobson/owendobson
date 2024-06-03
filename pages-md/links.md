@@ -12,7 +12,7 @@
 - [Photography Portfolio](https://www.owendobsonphotography.com)
 
 ### Personal Social Media
-- [Instagram](https://www.instagram.com/otdobson)
+- [Instagram](https://www.instagram.com/o3e45)
 - [Twitter](https://twitter.com/otdobson)
 - [Linkedin](https://www.linkedin.com/in/owendob23)
 - [Personal Portfolio](https://www.owendobson.com)
