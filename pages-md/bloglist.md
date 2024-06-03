@@ -8,3 +8,5 @@ December 18th, 2023 [PA FBLA RLC Region 26 Conference at Shippensburg University
 
 December 18th, 2023 [PA FBLA Business Ethics Project 23/24](/blog/FBLA-business-ethics-23-24)
 
+June 3rd, 2024 [My Future Defined in a better state of mind](/blog/My-Future-Defined)
+

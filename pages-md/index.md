@@ -22,3 +22,5 @@ Feel free to contact me at [My email](https://bettermailto.com/user/665dc15009f5
 Check out my socials!! [Socials](/socials]
 
 Phone: 717-504-3974
+
+Modeling Measurements: [Measurements](https://owendobson.com/modeling-measurements)
