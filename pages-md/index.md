@@ -19,7 +19,7 @@ I am also taking various courses on coursea for extra knowledge and more educati
 Feel free to contact me at [My email](https://bettermailto.com/user/665dc15009f522f94c4e9618) or connect with me on linkedin at [My linkedin](https://linkedin.com/in/owendob23). Also dont fry from scheduling a meeting to talk [hey!](https://calendar.app.google/iFXJjeVrRZVM4HFH8)
 
 
-Check out my socials!! [Socials](/socials]
+Check out my socials!! [Socials](https://owendobson.com/links]
 
 Phone: 717-504-3974
 
