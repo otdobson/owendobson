@@ -2,9 +2,8 @@ export default function Navbar() {
   return (
     <header>
       <a href="/">
-        <h1>Dobson, Owen</h1> </a>
-        <p> Aspiring Business Owner && Student </p>
-	<p> An organzational wiki of Owen Dobsons Life </p>
+        <h1>Dobson, Owen</h1>
+        </a>
         <nav>
         <p>
           <a href="/">Home</a>
