@@ -4,7 +4,6 @@ meta_description: Welcome to an organizational wiki of Owen Dobson's life.
 ---
 
 ## Hello!
-### Owen Dobson
 ![image](/owen.jpg)
 
 Welcome to an output of my second brain from notion! In this site you will find a journal/record of my journey and experiences as well as research and blog posts.
