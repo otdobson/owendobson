@@ -4,6 +4,8 @@ export default function Navbar() {
       <a href="/">
         <h1>Dobson, Owen</h1>
         </a>
+	<p> Aspiring Business Owner && Student </p>
+	<p> An Organzational Wiki of Owen Dobsons Life </p>
         <nav>
         <p>
           <a href="/">Home</a>
