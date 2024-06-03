@@ -1,6 +1,7 @@
 ---
 title: Dobson, Owen
 meta_description: Welcome to an organizational wiki of Owen Dobson's life.
+meta_image: ![image](/owen.jpg)
 ---
 
 ## Hello!
@@ -15,7 +16,9 @@ I am a senior at Shippensburg Area Senior High School and I am also enrolled in 
 
 I am also taking various courses on coursea for extra knowledge and more education on my fosued trade.
 
-Feel free to contact me at [My email](owen@owendobson.com) or connect with me on linkedin at [My linkedin](linkedin.com/in/owendob23). Also dont fry from scheduling a meeting to talk [hey!](https://calendar.app.google/iFXJjeVrRZVM4HFH8)
+Feel free to contact me at [My email](https://bettermailto.com/user/665dc15009f522f94c4e9618) or connect with me on linkedin at [My linkedin](https://linkedin.com/in/owendob23). Also dont fry from scheduling a meeting to talk [hey!](https://calendar.app.google/iFXJjeVrRZVM4HFH8)
 
 
 Check out my socials!! [Socials](/socials]
+
+Phone: 717-504-3974

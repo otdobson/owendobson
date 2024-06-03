@@ -4,10 +4,10 @@
  
 ### Professional
 - [Linkedin](https://linkedin.com/in/owendob23)
-- [Resume](https://wiki.owendobson.com/resume)
+- [Resume](https://owendobson.com/resume)
 - [Personal Portfolio](https://www.owendobson.com)
-- [Acadmic Journal](https://wiki.owendobson.com/notebook)
-- [Log Journal/Diary](https://wiki.owendobson.com/journal)
+- [Acadmic Journal](https://owendobson.com/notebook)
+- [Log Journal/Diary](https://owendobson.com/journal)
 - [Modeling Portfolio](https://modeling.owendobson.com)
 - [Photography Portfolio](https://www.owendobsonphotography.com)
 
@@ -21,7 +21,7 @@
 ### Owen Dobson Photography
 - [Instagram](https://instagram.com/owendphotos)
 - [Flickr Gallery](https://flickr.com/owendphotos)
-- [Photography Portfolio](https://www.owendobsonphotography.com)
+- [Photography Portfolio](https://www.owendphotos.com)
 - [Facebook](https://facebook.com/owendphotos)
 - [Linkedin](https://www.linkedin.com/company/100470938)
 - [Email](mailto:contact@owendphotos.com)
@@ -40,8 +40,8 @@
 - [Modeling Portfolio](https://modeling.owendobson.com)
 
 ### Contact
-- [Email](mailto:contact@owendobson.com)
-- Phone: ‪717-219-7818‬
+- [Email](https://bettermailto.com/user/665dc15009f522f94c4e9618)
+- Phone: ‪717-504-3974
 
 
 ### More About Me
